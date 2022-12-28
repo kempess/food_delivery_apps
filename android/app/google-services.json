@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713516729582",
+    "project_id": "food-delivery-app-2b2e4",
+    "storage_bucket": "food-delivery-app-2b2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713516729582:android:4dde441a7986c5f63cdfff",
+        "android_client_info": {
+          "package_name": "com.kempes.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713516729582-t55vhvalurslkdtjne777jp80voq9gcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCUbCjzeSpraLXGG0e9wDaZo5229r6xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713516729582-t55vhvalurslkdtjne777jp80voq9gcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
